@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FoxxRenard
-- 👀 I’m interested in Webs and game development
+- 👀 I’m interested in Web and games development
 - 🌱 I’m currently learning js 
 - 📫 How to reach me joelmatiascornejo@gmail.com
 
