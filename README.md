@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @FoxxRenard
 
 - 👀 Interested in web development, game development and self-hosted projects
-- 🌱 Currently learning JavaScript
+- 🌱 Currently learning Python
 - ⚒️ Building projects under the FoxxForge name
 - 📫 Contact: foxxforge@gmail.com
 <!---
